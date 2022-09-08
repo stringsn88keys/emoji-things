@@ -5,4 +5,4 @@
 * Have ruby
 * (have a Mac for now)
 * bundle install
-* `ruby emoji.rb '(javaflip)'`
+* `ruby emoji.rb '(javaflip)'` copies `(javaflip)` emoji to clipboard
