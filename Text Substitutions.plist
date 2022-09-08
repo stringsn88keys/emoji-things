@@ -1,0 +1,314 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>phrase</key>
+		<string>(⊙_◎)</string>
+		<key>shortcut</key>
+		<string>(bugeyes)</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>⌘-</string>
+		<key>shortcut</key>
+		<string>(cmd-)</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>⌘</string>
+		<key>shortcut</key>
+		<string>(cmd)</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>⌃</string>
+		<key>shortcut</key>
+		<string>(cntl)</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>ಠ_ಠ</string>
+		<key>shortcut</key>
+		<string>(disapproval)</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>¯\_🐶_/¯</string>
+		<key>shortcut</key>
+		<string>(dogshrug)</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>(╯°□°)╯︵ ┻(duckflip)┻</string>
+		<key>shortcut</key>
+		<string>(duck-flip)</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>(－‸ლ)</string>
+		<key>shortcut</key>
+		<string>(facepalm)</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>(╯°□°)╯︵ ┻━┻</string>
+		<key>shortcut</key>
+		<string>(flip)</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>t(-__-t)</string>
+		<key>shortcut</key>
+		<string>(fu)</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>┬─┬﻿ ノ( ゜-゜ノ)</string>
+		<key>shortcut</key>
+		<string>(heresatable)</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>(╯°□°)╯︵ ┻ɐʌɐɾ┻</string>
+		<key>shortcut</key>
+		<string>(javaflip)</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>    ()__()
+    / o o\   ;
+   |' =Y=';-/
+   { \  / }
+    mmm mmm   </string>
+		<key>shortcut</key>
+		<string>(kungfuhamster)</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>🙈🙉🙊</string>
+		<key>shortcut</key>
+		<string>(noevil)</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>On my way!</string>
+		<key>shortcut</key>
+		<string>(omw)</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>⌥</string>
+		<key>shortcut</key>
+		<string>(optn)</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>ಠ益ಠ</string>
+		<key>shortcut</key>
+		<string>(rage)</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>(ノಠ益ಠ)ノ彡┻━┻</string>
+		<key>shortcut</key>
+		<string>(rageflip)</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>\m/ (&gt;_&lt;) \m/</string>
+		<key>shortcut</key>
+		<string>(rock)</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>⇧</string>
+		<key>shortcut</key>
+		<string>(shft)</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>⇧</string>
+		<key>shortcut</key>
+		<string>(shift)</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>¯\_(ツ)_/¯</string>
+		<key>shortcut</key>
+		<string>(shrug)</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>┻━┻ ︵﻿ ¯\(ツ)/¯ ︵ ┻━┻</string>
+		<key>shortcut</key>
+		<string>(shrugtable)</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>♨_♨</string>
+		<key>shortcut</key>
+		<string>(unsee)</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>ლ(ಠ益ಠლ)</string>
+		<key>shortcut</key>
+		<string>(yuno)</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>(⊙_◎)</string>
+		<key>shortcut</key>
+		<string>*bugeyes*</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>ಠ_ಠ</string>
+		<key>shortcut</key>
+		<string>*disapproval*</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>(－‸ლ)</string>
+		<key>shortcut</key>
+		<string>*facepalm*</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>(╯°□°)╯︵ ┻━┻</string>
+		<key>shortcut</key>
+		<string>*flip*</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>t(-__-t)</string>
+		<key>shortcut</key>
+		<string>*fu*</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>(╯°□°)╯︵ ┻ɐʌɐɾ┻</string>
+		<key>shortcut</key>
+		<string>*javaflip*</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>    ()__()
+    / o o\   ;
+   |' =Y=';-/
+   { \  / }
+    mmm mmm   </string>
+		<key>shortcut</key>
+		<string>*kungfuhamster*</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>🙈🙉🙊</string>
+		<key>shortcut</key>
+		<string>*noevil*</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>ಠ益ಠ</string>
+		<key>shortcut</key>
+		<string>*rage*</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>(ノಠ益ಠ)ノ彡┻━┻</string>
+		<key>shortcut</key>
+		<string>*rageflip*</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>\m/ (&gt;_&lt;) \m/</string>
+		<key>shortcut</key>
+		<string>*rock*</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>¯\_(ツ)_/¯</string>
+		<key>shortcut</key>
+		<string>*shrug*</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>♨_♨</string>
+		<key>shortcut</key>
+		<string>*unsee*</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>ლ(ಠ益ಠლ)</string>
+		<key>shortcut</key>
+		<string>*yuno*</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>Ø</string>
+		<key>shortcut</key>
+		<string>``0</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>🐮💩</string>
+		<key>shortcut</key>
+		<string>bullshit</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>🐱💩</string>
+		<key>shortcut</key>
+		<string>catshit</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>🐶💩</string>
+		<key>shortcut</key>
+		<string>dogshit</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>┬─┬﻿ ノ( ゜-゜ノ)</string>
+		<key>shortcut</key>
+		<string>heresatable</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>🐴💩</string>
+		<key>shortcut</key>
+		<string>horseshit</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>🐨💩</string>
+		<key>shortcut</key>
+		<string>koalashit</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>On my way!</string>
+		<key>shortcut</key>
+		<string>omw</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>🐼💩</string>
+		<key>shortcut</key>
+		<string>pandashit</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>💩🛏🛏</string>
+		<key>shortcut</key>
+		<string>ShitTheBeds</string>
+	</dict>
+	<dict>
+		<key>phrase</key>
+		<string>┻━┻ ︵﻿ ¯\(ツ)/¯ ︵ ┻━┻</string>
+		<key>shortcut</key>
+		<string>shrugtable</string>
+	</dict>
+</array>
+</plist>
